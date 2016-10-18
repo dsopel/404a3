@@ -4,7 +4,7 @@ Three html files containing books from Project Gutenberg are in the folder guten
 The portfolio folder contains two html files, good.html and bad.html. They are the same except they link to different stylesheets.
 Screenshots of each project part are contained in the screenshots folder of the gutenberg and portfolio folders.
 index.html in the root folder displays screenshots that are linked to their respective pages.
-The site is hosted on Github pages at [http://dsopel.github.io/](http://dsopel.github.io/)
+
 
 Project Gutenberg Skins
 =======================
